@@ -1,0 +1,6 @@
+{
+  "test_f1_macro": 0.7519925478546813,
+  "test_accuracy": 0.8568,
+  "train_minutes": 9.093419981002807,
+  "n_train": 44977
+}

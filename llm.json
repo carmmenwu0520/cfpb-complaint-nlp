@@ -1,0 +1,26 @@
+{
+  "v1_zero_shot": {
+    "test_f1_macro": 0.6851093954013818,
+    "test_accuracy": 0.814,
+    "input_tokens": 151675,
+    "output_tokens": 2986,
+    "unparsed": 1,
+    "seconds": 577.0090439319611
+  },
+  "v2_definitions": {
+    "test_f1_macro": 0.6757232537794919,
+    "test_accuracy": 0.822,
+    "input_tokens": 251675,
+    "output_tokens": 2971,
+    "unparsed": 1,
+    "seconds": 581.8286683559418
+  },
+  "v3_few_shot": {
+    "test_f1_macro": 0.6815522915656159,
+    "test_accuracy": 0.822,
+    "input_tokens": 476175,
+    "output_tokens": 3004,
+    "unparsed": 1,
+    "seconds": 583.5769672393799
+  }
+}
